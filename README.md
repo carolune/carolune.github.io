@@ -1,3 +1,3 @@
 # carolune.github.io
 
-github pages site: Just playing arond a bit for now.
+github pages site: Just playing around a bit for now.
